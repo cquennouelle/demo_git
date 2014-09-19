@@ -1,4 +1,5 @@
 demo_git
 ========
 
-Une demo de git qui se passe bien et en ligne !
+Une demo de git qui se passe bien et en ligne !dif en 
+Mo
